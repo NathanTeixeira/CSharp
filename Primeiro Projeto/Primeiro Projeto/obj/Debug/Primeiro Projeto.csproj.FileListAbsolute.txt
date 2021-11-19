@@ -1,0 +1,7 @@
+N:\C#\Primeiro Projeto\Primeiro Projeto\bin\Debug\Primeiro Projeto.exe.config
+N:\C#\Primeiro Projeto\Primeiro Projeto\bin\Debug\Primeiro Projeto.exe
+N:\C#\Primeiro Projeto\Primeiro Projeto\bin\Debug\Primeiro Projeto.pdb
+N:\C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.csproj.AssemblyReference.cache
+N:\C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.csproj.CoreCompileInputs.cache
+N:\C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.exe
+N:\C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.pdb
